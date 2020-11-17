@@ -6,7 +6,7 @@ jQuery(function($){
         aw_uploader = wp.media({
             title: 'Custom Video',
             library : {
-                uploadedTo : wp.media.view.settings.post.id,
+                //uploadedTo : wp.media.view.settings.post.id,
                 type : 'video'
             },
             
